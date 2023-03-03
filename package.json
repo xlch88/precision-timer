@@ -13,5 +13,7 @@
     "high precision"
   ],
   "author": "dark495",
-  "license": "WTFPL"
+  "license": "WTFPL",
+  "repository": "xlch88/precision-timer",
+  "homepage": "https://github.com/xlch88/precision-timer"
 }
